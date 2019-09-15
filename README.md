@@ -3,7 +3,7 @@
 
 ## Project Description
 
-This github repo contains the MATLAB code for all point robot simulations in the RA-L-IROS 2019 submission, titled "Information Theoretic Characterization of Control Modes for Intent Disambiguation". 
+This github repo contains the MATLAB code for all point robot simulations in the ICRA 2020 submission, titled "Information Theoretic Characterization of Control Modes for Intent Disambiguation". 
 
 ## How to Run Code
 
