@@ -1,9 +1,9 @@
-# Information Theoretic Characterization of Control Modes for Intent Disambiguation
+# Information Theoretic Characterization of Control Modes for Intent Disambiguation in Assistive Robots
 
 
 ## Project Description
 
-This github repo contains the MATLAB code for all point robot simulations in the ICRA 2020 submission, titled "Information Theoretic Characterization of Control Modes for Intent Disambiguation". 
+This github repo contains the MATLAB code for all point robot simulations in the ICRA 2020 submission, titled "Information Theoretic Characterization of Control Modes for Intent Disambiguation in Assistive Robots". 
 
 ## How to Run Code
 
